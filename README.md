@@ -8,9 +8,9 @@ This Privacy Policy describes how our mobile application collects, uses, and saf
 
 Our mobile application collects and uses only the following information from users:
 
-1. **User-Provided Files**: Our application allows users to send and upload files to the app for processing or storage. These files may contain personal information or sensitive data. We collect and store these files solely for the purpose of providing the requested services to the user.
+1. **User-Provided Files**: Our application allows users to send and upload files to the app for processing or storage. These files may contain personal information or sensitive data. We collect and store these files solely for the purpose of providing the requested services to the user. Is it up to user to provide any file.
 
-2. **Private Messages**: Our application may provide a messaging system for users to communicate with the system or other users. Any private messages sent through the app are stored temporarily for delivery purposes and are not used for any other purposes.
+2. **Private Messages**: Our application may provide a messaging system for users to communicate with the system's chatbot. Any private messages sent through the app are stored temporarily for delivery and history purposes and are not used for any other purposes.
 
 ## Information Sharing and Disclosure
 
@@ -26,11 +26,8 @@ We take reasonable precautions to protect user-provided files and private messag
 
 ## Retention of User Data
 
-We retain user-provided files and private messages for as long as necessary to fulfill the purposes for which they were collected or as required by law. Once the files or messages are no longer needed, we will securely delete or anonymize them.
+We retain user-provided files and private messages for as long as necessary to fulfill the purposes for which they were collected or as required by law. Once the files or messages are no longer needed, we will securely delete or anonymize them. In addition, it is up to user if he/she wants to retain their data as there is always an option to delete the data
 
-## Children's Privacy
-
-Our mobile application is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under the age of 13. If we discover that we have inadvertently collected personal information from a child under 13, we will promptly delete it from our systems.
 
 ## Changes to this Privacy Policy
 
@@ -38,5 +35,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [email address].
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at giannispast9@gmail.com.
 
