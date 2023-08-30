@@ -10,7 +10,9 @@ Our mobile application collects and uses only the following information from use
 
 1. **User-Provided Files**: Our application allows users to send and upload files to the app for processing or storage. These files may contain personal information or sensitive data. We collect and store these files solely for the purpose of providing the requested services to the user. Is it up to user to provide any file.
 
-2. **Private Messages**: Our application may provide a messaging system for users to communicate with the system's chatbot. Any private messages sent through the app are stored temporarily for delivery and history purposes and are not used for any other purposes.
+2. **User-Provided Images**:  Our application allows users to upload images in the app, in order for our app to make predictions if the text on Image is a phishing attack or not.
+
+3. **Private Messages**: Our application may provide a messaging system for users to communicate with the system's chatbot. Any private messages sent through the app are stored temporarily for delivery and history purposes and are not used for any other purposes.
 
 ## Information Sharing and Disclosure
 
