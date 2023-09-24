@@ -14,6 +14,9 @@ Our mobile application collects and uses only the following information from use
 
 3. **Private Messages**: Our application may provide a messaging system for users to communicate with the system's chatbot. Any private messages sent through the app are stored temporarily for delivery and history purposes and are not used for any other purposes.
 
+4.  **SMS**: Our application may provide an anti-phishing mechanism, thus there is requirement to read upcoming SMS to notify users for such malicious SMS. All SMS are read only one time just to analyze them and notify user only if a SMS is considred suspicious and are not used nor stored for any other purposes.
+
+
 ## Information Sharing and Disclosure
 
 We understand the importance of maintaining the privacy and confidentiality of user data. We do not share, sell, or disclose any user-provided files or private messages with third parties, except in the following limited circumstances:
@@ -28,7 +31,7 @@ We take reasonable precautions to protect user-provided files and private messag
 
 ## Retention of User Data
 
-We retain user-provided files and private messages for as long as necessary to fulfill the purposes for which they were collected or as required by law. Once the files or messages are no longer needed, we will securely delete or anonymize them. In addition, it is up to user if he/she wants to retain their data as there is always an option to delete the data
+We retain user-provided files and private messages for as long as necessary to fulfill the purposes for which they were collected or as required by law. Once the files or messages are no longer needed, we will securely delete or anonymize them. In addition, it is up to user if he/she wants to retain their data as there is always an option to delete the data. SMS needed for the Anti-Phishing mechanism are not stored.
 
 
 ## Changes to this Privacy Policy
